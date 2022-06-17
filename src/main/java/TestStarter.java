@@ -56,7 +56,7 @@ public class TestStarter {
                 List<Method> methodsList = new ArrayList<>();
                 methodsList.add(method);
                 sortMethodsMap.put(11, methodsList);
-                isBeforeSuite = true;
+                isAfterSuite = true;
             }
         }
 
